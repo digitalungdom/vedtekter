@@ -35,7 +35,7 @@
 
 1. Styret kan oppnevne prosjektgrupper. Prosjektledere, og dennes eventuelle stedfortreder velges av styret. Øvrige medlemmer velges av prosjektleder. Funksjonstid fastsettes av styret
 1. Prosjektleder tiltrer styret som observatør med tale- og forslagsrett, men ikke stemmerett.
-1. Dersom prosjektleder er fast medlem av styret, tiltrer stedfortreder som observatør til styret. Dersom ikke stedfortreder er valgt, velges en observatør av og fra prosjektgruppen, etter at denne er valgt.
+1. Dersom prosjektleder er fast medlem av styret, tiltrer stedfortreder som observatør til styret. Dersom ikke stedfortreder er valgt, kan en observatør velges fra prosjektgruppen, etter at denne er valgt.
 
 ## 5. Diverse
 
