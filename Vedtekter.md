@@ -14,17 +14,17 @@
    1. Alle medlemmer som har betalt medlemskontigent.
    1. Sittende styreleder og sittende styremedlemmer.
    1. Alle som har arrangert eller deltatt på en eller flere prosjekter i foreningen de siste to årene som har blitt registrert av prosjektleder eller prosjektgruppen.
-4. Alle stemmer på årsmøtet skal skje ved personlig oppmøte.
-5. Følgende saker skal alltid tas opp på årsmøtet:
+1. Alle stemmer på årsmøtet skal skje ved personlig oppmøte.
+1. Følgende saker skal alltid tas opp på årsmøtet:
     1. Valg av møteleder og referent.
 	1. Årsmelding fra styret.
 	1. Regnskap fremlegges.
 	1. Vedtektsendringer.
 	1. Valg av leder og styremedlemmer.
 	1. Valg av revisor.
-6. Revisor skal gjennomgå foreningens regnskap, og fremme innstilling om å godkjenne regnskapet på årsmøtet.
-7. Det avholdes ekstraordinært årsmøte hvis styret eller minst 1/3 av medlemmene krever det. Innkalling må sendes med minst en ukes varsel, og kun sakene nevnt i innkallingen kan tas opp.
-8. Styret kaller inn til årsmøte og evt. ekstraordinært årmøte elektronisk.
+1. Revisor skal gjennomgå foreningens regnskap, og fremme innstilling om å godkjenne regnskapet på årsmøtet.
+1. Det avholdes ekstraordinært årsmøte hvis styret eller minst 1/3 av medlemmene krever det. Innkalling må sendes med minst en ukes varsel, og kun sakene nevnt i innkallingen kan tas opp.
+1. Styret kaller inn til årsmøte og evt. ekstraordinært årmøte elektronisk.
 
 ## 3. Styret
 
