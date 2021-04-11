@@ -10,7 +10,10 @@
 
 1. Årsmøtet er Vestfold Digitale Ungdoms øverste organ og skal avholdes hvert medlemsår.
 1. Styret innkaller til årsmøte med minst to ukers varsel.
-1. På årsmøtet deltar alle medlemmer som har betalt medlemskontingenten siden forrige årsmøte, med tale-, forslags- og stemmerett.
+1. På årsmøtet har følgende tale-, forslags- og stemmerett:
+   1. Alle medlemmer som har betalt medlemskontigent.
+   1. Sittende styreleder og sittende styremedlemmer.
+   1. Alle som har arrangert eller deltatt på en eller flere prosjekter i foreningen de siste to kalenderårene som har blitt registrert av prosjektleder eller prosjektgruppen.
 1. Alle stemmer på årsmøtet skal skje ved personlig oppmøte.
 1. Følgende saker skal alltid tas opp på årsmøtet:
     1. Valg av møteleder og referent.
