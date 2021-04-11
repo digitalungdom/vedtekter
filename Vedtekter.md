@@ -4,7 +4,7 @@
 
 1. Vestfold Digitale Ungdom er en barne- og ungdomsforening med formålet å fremme interesse og engasjement for digital kultur. Vestfold Digitale Ungdom baserer seg på frivillig engasjement, og er partipolitisk og religiøst uavhengig.
 1. Som medlemmer i Vestfold Digitale Ungdom regnes alle som har betalt kontingenten for inneværende medlemsår.
-1. Alle aktiviteter skal være rusfrie
+1. Alle aktiviteter skal være rusfrie.
 
 ## 2. Årsmøtet
 
